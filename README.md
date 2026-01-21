@@ -38,8 +38,8 @@ a_r = 0.05(r \bmod 7), \quad b_r = 0.3((r \bmod 5)+1)
 $$
 
 For roll number **102303738**:
-- $r \bmod 7 = 6 \Rightarrow a_r = 0.3$
-- $r \bmod 5 = 2 \Rightarrow b_r = 0.9$
+- $r \bmod 7 = 5 \Rightarrow a_r = 0.25$
+- $r \bmod 5 = 2 \Rightarrow b_r = 1.2$
 
 ---
 
