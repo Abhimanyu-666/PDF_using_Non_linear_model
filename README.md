@@ -103,7 +103,7 @@ These values are specific to the given roll number and dataset.
 
 ```
 PDF using Non Linear Model
-├── Assignment1(PredictiveAnalytics)_102303738.ipynb
+├── Assignment1(Predictive_Analytics)_102303738.ipynb
 └── README.md
 ```
 
